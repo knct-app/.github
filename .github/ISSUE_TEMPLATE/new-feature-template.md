@@ -10,6 +10,8 @@ assignees: ''
 Feature Name: xyz
 Feature Description: xyz
 
+---
+
 ### API End Point:
 ```javascript
 http://localhost:3002/{route_name}
@@ -37,3 +39,7 @@ const body={...}
 @tag_yourself
 1. Point x
 2. Point y
+
+# Reminder
+
+- [ ] I, @tag_yourself, have added the correct projects / milestones / labels / assignees to this pull request
