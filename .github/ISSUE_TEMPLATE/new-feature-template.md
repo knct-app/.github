@@ -42,4 +42,4 @@ const body={...}
 
 # Reminder
 
-- [ ] I, @tag_yourself, have added the correct projects / milestones / labels / assignees to this pull request
+- [ ] I, @tag_yourself, have added the correct projects / milestones / labels / assignees to this issue
