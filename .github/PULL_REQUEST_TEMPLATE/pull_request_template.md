@@ -1,40 +1,16 @@
+## Purpose
+_Describe the problem or feature in addition to a link to the issues._
 
----
-name: New Feature Template
-about: The issue template for new features
-title: FEATURE [CODE]
-labels: new feature
-assignees: ''
+## Approach
+_How does this change address the problem?_
 
----
+#### Open Questions and Pre-Merge TODOs
+- [ ] Use github checklists. When solved, check the box and explain the answer.
 
-Feature Name: xyz
-Feature Description: xyz
+## Learning
+_Describe the research stage_
 
-### API End Point:
-```javascript
-http://localhost:3002/{route_name}
-HTTP Verb: {verb_name} //PUT POST GET ...etc
-```
-### Front-end Request:
-```javascript
-const body={...}
-```
-### Back-end Response:
-- Success
-```javascript
-{msg:'Success Msg'}
-```
-- Error 
-1. Generic Error
-```javascript
-{msg:'Error Msg'}
-```
-2. DB Error
-```javascript
-{msg:'DB Error'}
-```
-### Note:
-@tag_yourself
-1. Point x
-2. Point y
+_Links to blog posts, patterns, libraries or addons used to solve this problem_
+
+#### Blog Posts
+- [How to Pull Request](https://github.com/flexyford/pull-request) Github Repo with Learning focused Pull Request Template.
