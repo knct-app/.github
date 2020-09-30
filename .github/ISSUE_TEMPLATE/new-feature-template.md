@@ -23,6 +23,7 @@ Feature Description: xyz
 ```javascript
 http://localhost:3002/{route_name}
 HTTP Verb: {verb_name} //PUT POST GET ...etc
+Protected: {Yes/No}
 ```
 ### Front-end Request:
 ```javascript
