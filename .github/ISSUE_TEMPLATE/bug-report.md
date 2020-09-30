@@ -33,6 +33,11 @@ If applicable, add screenshots to help explain your problem.
  - OS: [e.g. iOS8.1]
  - Browser [e.g. stock browser, safari]
  - Version [e.g. 22]
+ 
+**Steps to Fix it:**
+1. Do this
+2. Do that
+3. And finally do this again
 
 **Additional context**
 Add any other context about the problem here.
