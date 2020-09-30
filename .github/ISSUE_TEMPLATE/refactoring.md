@@ -1,17 +1,19 @@
 ---
 name: Refactoring
 about: Make the code more efficient and readable
-title: "[REFACTOR]"
+title: REFACTOR CODE [Title]
 labels: refactoring
 assignees: ''
 
 ---
 
-# Description:
+### Description:
 Please tell us what will be changed and why.
 ---
 ## Type:
 - [ ] Syntax Modification (ex: to ES6)
+- [ ] Increase in Readability
+- [ ] Increase in Performance
 - [ ] Error Handling
 - [ ] Logging Mechanism
 - [ ] DB Logic
