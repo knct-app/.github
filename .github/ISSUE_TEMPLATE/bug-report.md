@@ -10,6 +10,12 @@ assignees: ''
 ### Describe the bug:
 A clear and concise description of what the bug is.
 
+### API End Point:
+```javascript
+http://localhost:3002/{route_name}
+HTTP Verb: {verb_name} //PUT POST GET ...etc
+Protected: {Yes/No}
+```
 ### To reproduce:
 Steps to reproduce the behavior:
 1. Go to '...'
