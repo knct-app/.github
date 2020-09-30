@@ -12,6 +12,13 @@ Feature Description: xyz
 
 ---
 
+### Steps:
+1. Do this
+2. Do that
+3. And finally do this
+
+---
+
 ### API End Point:
 ```javascript
 http://localhost:3002/{route_name}
