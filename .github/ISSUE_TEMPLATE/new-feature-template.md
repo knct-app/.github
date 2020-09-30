@@ -1,7 +1,7 @@
 ---
 name: New Feature Template
 about: The issue template for new features
-title: FEATURE[CODE]
+title: FEATURE [CODE] [TITLE]
 labels: new feature
 assignees: ''
 
