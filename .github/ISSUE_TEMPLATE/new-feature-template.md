@@ -33,19 +33,24 @@ Protected: {Yes/No}
 ```javascript
 const body={...}
 ```
-### Back-end Response:
+### Back-end Response (Status Code Only):
+#### Note:
+Standard Response Strucutre: `{msg:'xxxxxx'}` 
+
+Please indicate it below if otherwise
+
 - Success
 ```javascript
-{msg:'Success Msg'}
+Status Code: 200
 ```
 - Error 
 1. Generic Error
 ```javascript
-{msg:'Error Msg'}
+Status Code:
 ```
 2. DB Error
 ```javascript
-{msg:'DB Error'}
+Status Code:
 ```
 ### Note:
 @tag_yourself
