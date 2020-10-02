@@ -58,8 +58,12 @@ Add any other context about the problem here.
 const body={...}
 ```
 ### Back-end Response (If required):
+#### Note:
+Standard Response Strucutre: `{msg:'xxxxxx'}` 
+
+Please indicate it below if otherwise
 ```javascript
-{msg:'Success Msg'}
+Status Code: 200
 ```
 
 ---
