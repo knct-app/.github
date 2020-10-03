@@ -1,7 +1,7 @@
 ---
 name: Bug Report
 about: Create a report to help us improve
-title: BUG CODE [Title]
+title: BUG [A/B] CODE [Title] (F:Frontend | B:Backend)
 labels: bug
 assignees: ''
 
