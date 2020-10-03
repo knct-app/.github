@@ -1,7 +1,7 @@
 ---
 name: Refactoring
 about: Make the code more efficient and readable
-title: REFACTOR CODE [Title]
+title: REFACTOR [F/B] CODE [Title] (F:Frontend | B:Backend)
 labels: refactoring
 assignees: ''
 
