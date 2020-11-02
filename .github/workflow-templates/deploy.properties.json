@@ -1,5 +1,8 @@
 {
     "name": "Knct Deployment Template",
     "description": "Knct Deployment Template for Staging",
-    "iconName": "knct.svg"
+    "iconName": "knct.svg",
+    "categories": [
+        "Javascript"
+    ]
 }
