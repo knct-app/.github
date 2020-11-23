@@ -1,14 +1,9 @@
 ---
 name: New Feature Template
 about: The issue template for new features
-title: FEATURE [CODE] [TITLE]
+title: FEATURE [TITLE]
 labels: new feature
 assignees: ''
-
----
-
-### Feature Name: 
-xyz
 
 ---
 ### Feature Description: 
@@ -37,8 +32,6 @@ const body={...}
 #### Note:
 Standard Response Strucutre: `{msg:'xxxxxx'}` 
 
-Please indicate it below if otherwise
-
 - Success
 ```javascript
 Status Code: 200
@@ -48,15 +41,7 @@ Status Code: 200
 ```javascript
 Status Code:
 ```
-2. DB Error
-```javascript
-Status Code:
-```
 ### Note:
 @tag_yourself
 1. Point x
 2. Point y
-
-# Reminder
-
-- [ ] I, @tag_yourself, have added the correct projects / milestones / labels / assignees to this issue
