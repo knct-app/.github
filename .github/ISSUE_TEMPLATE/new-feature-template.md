@@ -37,9 +37,9 @@ Standard Response Strucutre: `{msg:'xxxxxx'}`
 Status Code: 200
 ```
 - Error 
-1. Generic Error
 ```javascript
-Status Code:
+Status Code: (Note)
+Status Code: (Note)
 ```
 ### Note:
 @tag_yourself
