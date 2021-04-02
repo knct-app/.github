@@ -24,7 +24,7 @@ const body={...}
 ```
 ### Back-end Response (Status Code Only):
 #### Note:
-Standard Response Strucutre: `{xxx:'xxxxxx'}` 
+Standard Response Strucuture: `{xxx:'xxxxxx'}` 
 
 - Success
 ```javascript
